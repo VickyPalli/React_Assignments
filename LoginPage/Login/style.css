@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.Login{
+    border: 1px solid black;
+    min-width: 30vw;
+    text-align: center;
+    background-color: rgb(242, 227, 237);
+    position: absolute;
+    top: 10vmax;
+    left: 35vw;
+}
+#Login{
+    display: block;
+}
+#Logo{
+    display: none;
+}
+.Login div {
+    margin: 30px;
+}
+.Login input{
+    height: 1.5vmax;
+    width: 50%;
+}
+.Login span{
+    width: 50%;
+
+}
+.Login button{
+    margin-bottom: 20px;
+    width: 5vmax;
+    padding: 5px;
+    background-color: rgb(92, 215, 92);
+    color: antiquewhite;
+    border: none;
+}
+
+
