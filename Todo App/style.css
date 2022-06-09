@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 30vw;
+    margin: 50px auto;
+    
+    background-color: rgba(211, 200, 200, 0.1);
+}
+.Button{
+    background-color: rgb(94, 215, 94);
+    outline: none;
+    border: none;
+    color: antiquewhite;
+}
+button{
+    padding: 5px;
+}
+h1{
+    margin: 10px auto;
+}
+.Delete{
+    background-color: tomato;
+    outline: none;
+    border: none;
+    color: antiquewhite;
+}
+.Edit{
+    background-color: rgb(61, 210, 210);
+    outline: none;
+    border: none;
+    color: antiquewhite;
+}
+#hell{
+    max-width: 20vw;
+    word-break: break-all;
+}
