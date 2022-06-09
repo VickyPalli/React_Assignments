@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container{
+    margin: 50px auto;
+    width: 60vw;
+    border: 1px solid rgba(25, 24, 24, 0.642);
+    height: 50vh;
+}
+input{
+margin: 10px;
+}
+.form-box,.cart{
+    margin: 30px;
+}
+.name,.age{
+    margin: 10px;
+}
+button{
+    margin: 50px 10px;
+}
